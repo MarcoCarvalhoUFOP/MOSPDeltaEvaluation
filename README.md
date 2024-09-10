@@ -1,7 +1,9 @@
 # MOSP Delta Evaluation
 Fast evaluation procedures for the Minimization of Open Stacks and Gate Matrix Layout Problems
 
-Please find the method description in the technical report "A delta evaluation function for column permutation problems".
+Please find the method description in the technical report below 
+
+J. R. Lima, V. G. M. Santos, and M. A. M. Carvalho, A Δ-evaluation function for column permutation problems. 2024. [Online]. Available: https://arxiv.org/abs/2409.04926.
 
 How to use: Import the 'mosp.cpp' file into your project's includes
 
